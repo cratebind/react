@@ -1,7 +1,7 @@
 {
   "name": "@cratebind/react",
   "version": "1.0.0",
-  "description": "Common React Utilites for Cratebind",
+  "description": "Common React Utilities for Cratebind",
   "author": "mattfwood",
   "license": "MIT",
   "repository": "cratebind/react",
