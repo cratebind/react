@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@cratebind/react@link:..":
+"@cratebind/react-components@link:..":
   version "0.0.0"
   uid ""
 

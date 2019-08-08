@@ -1,6 +1,6 @@
 {
-  "name": "@cratebind/react-example",
-  "homepage": "https://mattfwood.github.io/@cratebind/react",
+  "name": "@cratebind/react-components-example",
+  "homepage": "https://mattfwood.github.io/@cratebind/react-components",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -9,7 +9,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "^1.1.4",
-    "@cratebind/react": "link:.."
+    "@cratebind/react-components": "link:.."
   },
   "scripts": {
     "start": "react-scripts start",
